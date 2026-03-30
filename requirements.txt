@@ -1,0 +1,9 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+pydantic==2.8.2
+python-dotenv==1.0.1
+openai>=1.40.0
+
+# Solo si vas a conectar Google Sheets real:
+google-api-python-client==2.143.0
+google-auth==2.34.0
