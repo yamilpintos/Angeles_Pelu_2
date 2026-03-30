@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sora-automatic",
+  "private_key_id": "ec1dbdc11c479ab38a1a35b603e62bb2f1ea9158",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD2bBD5ch3M71RS\nBrwWjVOE+UZqmdm89L0ePV2HTzACo64bno8y/kO8vKF6kro6wxFjUkzLma/3sQwj\noJX9d5K7b8t+9q/jT572oayeEGeX92nChaDQiONwVimyNms9Z3tzv7W+BhKyRJxe\nrbZHSkVXw07lo+wft68pPzsUeryjdnwMUh0BzlguM/k18a7ouUlwlBG/t0OOK4Cl\n53BN5EaqbrgFJqr4B+anASbDuAucLrq6hQNn+c0RjCVoc6IMmVn+magCkHZcsFs/\niRe39muSAHiKNy7nAvA4ABmMAKJ149SirsbwGjMoOk822AdD90DEphIN6r7Zt30N\n5fQ6+rUTAgMBAAECggEANNltdIowcPzdOTBfk3ig8nJh00gGxjs4+izQC86EbfR7\nyUmizZ1xmp9cBIVGcobWilYiyUG/VyB+CYAN2wwTiKaL3sF6bIZtgdifxFChXxq9\ncG4nVMIfAT9BdwqrykIQ3Hy/ti7oQJptbPLVlomLwKxPFfonkI/c/bwlaBmAro+1\ng7j9/2UZ9ITmVcMxCYY6YpYnk4MD/Lzui6JiYprmnk/ZLYK/ivSSSfqc68XGNTD6\nQTj0VouxunEGeRwvQDFEc9AmOgwYZjIfQsy+VlBgrkf8gr0VWNuh1YrdrnPH+Znf\naNZ9onupjejxq2U+Nxj3TDmIyOh56WSWNQJ8oKVw1QKBgQD8LRhut92IlpkSKMDm\nB7gsftmitrYEn7DE0hbtC5sXpySMagJz9LvIPg6CJhooQPCgvX/28LvBACm5x93m\n7cJv1NUhG+pnrEYenaGe+cN6rh3jp+N+4MNpHLUxouO7v589SWhrjuya2beQ4iHZ\nNAvey9yeagucaQEqgbIVWeWAhQKBgQD6KKJ+3OdXtWxZ+c+XiNrwbw4A4szkH5yi\nC4NAK26Lakv964TffkXbpby5R+/Uv/NorRqobZav81rYXAa/kRoFDc7fGv0JdzS5\n8VxMup26FTRINdDgaN/r6ktrwJ2nYsCt/k8sPAIOC+5m77EmpvX3dwAg5a5vVLx8\nZDYZaj9etwKBgF4UbOMRkYKdvKm7roujIaDoCkXcKHf9I7OqNYdmJwxh/Q6tlhCw\no0YHcN45XNTbtWoiiJUWJtXQO8DlwfGfjkSugH0DryXSba6KXHu07qrcPqZqQkNZ\nk02puie0f4XR7ZStyFkoTzlONF/HHZ2s/yi1oa8wHPjTa+3xyQCSMz8JAoGAUNdu\n4+aJkIudr1oOnx7n+gk5kkm5AwPAP5HO4Z7ng4BffHhvITaSZtAhtBKuS6eYhrxi\nQAniR4wyUHc06xV+PiHfN7RmD3gJfwmj1Vv9etQ9aBSUIuFhc8DsjK7bg+ti7xef\nCGGAHH/4lCVjr2UHWeiIDxmKjInqu5w6622tevMCgYEAgKculGOU0IkpJu73hEgM\n4nDmp5Um3YsTxlTIh9Eup5c1nqsnDt2bq1pGpjgq0HbDyuRj9LDKZtxOOhoK7luz\nDyZSLge+OcvXcJ+We34AoK8wyYVcQxkfbSxxbt85LoP1/0OvumQjiBGwOsZqDL10\nLSuNFPYbWWQZSfsGUws66P8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "peluqueria@sora-automatic.iam.gserviceaccount.com",
+  "client_id": "107233557964129967201",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/peluqueria%40sora-automatic.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
